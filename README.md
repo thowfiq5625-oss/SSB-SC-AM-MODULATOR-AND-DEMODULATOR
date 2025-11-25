@@ -160,7 +160,8 @@ plot(t, recovered, 'r');
 xtitle("Recovered Message Signal (After LPF)", "Time (s)", "Amplitude");
 
 ## TABULATION
-![WhatsApp Image 2025-11-19 at 17 45 34_686dc2e7](https://github.com/user-attachments/assets/95dc3b8f-4092-4a67-9970-32e31c2bb1ef)
+![WhatsApp Image 2025-11-25 at 16 11 31_5bc46e78](https://github.com/user-attachments/assets/c9b8cd90-de3f-40b7-998c-e6e36c95ebc4)
+
 ## OUTPUT
 ![WhatsApp Image 2025-11-19 at 17 45 51_5fb9ca6b](https://github.com/user-attachments/assets/089ba94b-39a3-4e04-8ac7-12566f594212)
 
